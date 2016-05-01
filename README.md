@@ -10,6 +10,8 @@
 #### 关键点
 对凯撒方阵的解析。
 
+[相关阅读](http://houweitao.github.io/2016/05/01/%E5%AE%9E%E7%8E%B0%E8%99%BE%E7%B1%B3%E9%9F%B3%E4%B9%90%E5%85%8D%E8%99%BE%E5%B8%81%E4%B8%8B%E8%BD%BD/)
+
 Just For Fun ^_^
 
 2016年05月01日16:41:15
